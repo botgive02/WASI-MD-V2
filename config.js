@@ -1,4 +1,4 @@
-//#ENJOY
+I//#ENJOY
 /**
 
 ░▒▓█▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓███████▓▒░▒▓█▓▒░ 
@@ -65,7 +65,7 @@ module.exports = {
   caption: process.env.CAPTION || "𝐅𝐈𝐋𝐄-𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃-𝐁𝐘-𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2😍",
   author: process.env.PACK_AUTHER || "923247116683",
   packname: process.env.PACK_NAME || "ZiDi Malik",
-  botname: process.env.BOT_NAME || "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2",
+  botname: process.env.BOT_NAME || "ZiDi-𝐌𝐃-𝐕2",
   ownername: process.env.OWNER_NAME || "ZiDi MALIK",
   errorChat: process.env.ERROR_CHAT || "923247116683",
   KOYEB_API: process.env.KOYEB_API || "false",
